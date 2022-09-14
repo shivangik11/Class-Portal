@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400;1,500&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+*{
+font-family:'poppins', sans-serif;
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+background-color: black;
+
+}
+
+#header h1{
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+    margin-top: 11rem;
+}
+
+#header h2{
+    color: white;
+    font-size: 2rem;
+    font-weight: lighter;
+    text-decoration: none;
+    text-align: center;
+    }
+
+
+#section-home {
+ margin-top: 11rem;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-wrap: wrap;
+ margin-left: 0rem;
+ margin-right: 0rem;
+ 
+}
+ #section-home a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    padding: 13rem;
+    font-size: 2rem;
+}
+
+.box-1{
+   background-color: #98CC90;
+   padding-right: 15rem;
+   padding-left: 15rem;
+}
+
+.box-1:hover {
+   background-color: #62b255;
+  
+}
+.box-2{
+    background-color: #F8F892;
+}
+
+.box-2:hover{
+    background-color: #d2d260;
+}
+
+.box-3{
+    background-color: #3D66E5;
+}
+
+.box-3:hover {
+    background-color: #2e4da9;
+}
