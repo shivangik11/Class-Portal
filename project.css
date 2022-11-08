@@ -223,3 +223,43 @@ box-sizing: border-box;
     color: black;
     font-weight: bold;
 } 
+/* conatiner 4 */
+#lab-projects .container-3{
+    
+    width: 80rem;
+    height: 20rem;
+    position: relative;
+    
+}
+
+.number-box h5{
+    font-size: 2rem;
+    width: 6rem;
+    height: 6rem;
+    text-align: center;
+    padding-top: 1.5rem;
+    position: absolute;
+    top: -15%;
+    left: 2%;
+    color: rgb(0, 0, 0);
+    background-color:#98CC90;
+    z-index: 1;
+}
+
+#lab-projects .container-3 p { 
+    background-color: white;
+    color: black;
+    padding: 2rem;
+    padding-left: 10rem;
+}
+#lab-projects .container-3 a:hover{ 
+    color: rgb(98, 98, 98);
+  } 
+
+#lab-projects .container-3 a{
+    font-size: 2rem;
+    text-decoration: none;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+} 
