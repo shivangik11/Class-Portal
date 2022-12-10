@@ -263,3 +263,12 @@ box-sizing: border-box;
     color: black;
     font-weight: bold;
 } 
+
+ .image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto ;
+    width: 50%;
+
+  
+}
